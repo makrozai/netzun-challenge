@@ -1,8 +1,8 @@
-React Backend Endpoints
+Vue Backend Endpoints
 =======================
 
 
-This is the documentation for the JSON API to support your React
+This is the documentation for the JSON API to support your Vue
 frontend for Netzun. The API is JSON REST, broken down into a few
 main sections:
 
