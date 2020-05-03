@@ -1,6 +1,6 @@
 {
   "license": "MIT",
-  "name": "equipindustry-react",
+  "name": "netzun-vuejs",
   "scripts": {
     "backend:setup": "cd backend && yarn install",
     "backend:start": "cd backend && yarn start"

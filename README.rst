@@ -9,7 +9,7 @@ Notes
 -----
 
 -  This should be fun! If you're stuck on a bug or something needs
-   clarification you can `email to Equip <mailto:tiago@equipindustry.com?subject=Challenge>`__ for help.
+   clarification you can `email to Netzun <mailto:marco@netzun.com.com?subject=Challenge>`__ for help.
 -  If you prefer a functional style (or some other style of programming)
    feel free to switch things up to suit how you write best. We left the
    codebase intentionally small to support different styles/complete
@@ -39,6 +39,6 @@ Great job! When you're all finished, open a PR and we'll review it 🙌
 
 .. Footer:
 .. |linkedin| image:: http://www.linkedin.com/img/webpromo/btn_liprofile_blue_80x15.png
-   :target: https://www.linkedin.com/company/equipindustry
+   :target: https://www.linkedin.com/company/netzun-plus
 .. |beacon| image:: https://ga-beacon.appspot.com/UA-148899399-1/github.com/equipindustry/challenge/readme
-   :target: https://github.com/equipindustry/challenge
+   :target: https://github.com/makrozai/netzun-challenge

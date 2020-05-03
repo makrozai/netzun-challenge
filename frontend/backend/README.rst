@@ -3,7 +3,7 @@ React Backend Endpoints
 
 
 This is the documentation for the JSON API to support your React
-frontend for EquipIndustry. The API is JSON REST, broken down into a few
+frontend for Netzun. The API is JSON REST, broken down into a few
 main sections:
 
 .. contents:: Table of Contents:

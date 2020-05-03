@@ -1,4 +1,4 @@
-Frontend Challenge - EquipIndustry
+Frontend Challenge - Netzun
 ==================================
 
 
@@ -14,7 +14,7 @@ In this challenge, we focus on code design and design patterns in
 Javascript. The goal is to assess your experience in writing **code that
 is easy to maintain, loosely coupled and highly cohesive**.
 
-EquipIndustry likes to work with constructive feedbacks, therefore we will
+Netzun likes to work with constructive feedbacks, therefore we will
 pay special attention to everyone's solution. We will contact you about
 the positive aspects of your test, as well as what you could improve in
 it. It is worth trying! :)
@@ -25,7 +25,7 @@ The problem
 -----------
 
 For this challenge you will be creating highly simplified version of the
-web app using `ReactJS`_. This is a Frontend challenge,
+web app using `VueJs`_. This is a Frontend challenge,
 You should use Git as you build your solution. For submission you are asked to push your repo
 to GitHub and provide us with the link and any necessary instructions.
 
@@ -35,7 +35,7 @@ diagram <https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model#Crow's_
 
 .. image:: backend/assets/images/equipindustry-challenge-database.png
   :width: 100%
-  :alt: database equipindustry challenge
+  :alt: database netzun challenge
   
   
 Expected functionalities
@@ -171,13 +171,13 @@ Challenges to achieve
 ---------------------
 
 For this challenge you will be writing your own
-`ReactJS`_ `Single Page App`_
+`VueJs`_ `Single Page App`_
 
-This is a React challenge, and is not strictly design focused, however,
+This is a Vuejs challenge, and is not strictly design focused, however,
 if you'd like to build and style your own components, please go right
 ahead. If you're not interested or comfortable with doing that, there
-are plenty of component libraries to help you. `Semantic
-UI <https://semantic-ui.com/>`__ is a good choice. Additionally, feel
+are plenty of component libraries to help you. `Vuetify
+<https://vuetifyjs.com/en/>`__ is a good choice. Additionally, feel
 free to use any additional libraries you find valuable.
 
 You should use Git as you build your solution. For submission you are
@@ -247,7 +247,7 @@ http://localhost:3000/.
 Feedback (optional)
 -------------------
 
-Here at EquipIndustry feedbacks are part of our culture, so it would be very
+Here at Netzun feedbacks are part of our culture, so it would be very
 rewarding if you could contribute with our hiring process by giving us
 your opinions on the challenge. We would like you to send it even if you
 didn't finish the challenge.
@@ -257,11 +257,11 @@ didn't finish the challenge.
 
 .. Links
 .. _`Webpack`: https://webpack.js.org
-.. _`ReactJS`: https://reactjs.org
+.. _`VueJs`: https://vuejs.org/
 .. _`Single Page App`: https://en.wikipedia.org/wiki/Single-page_application
 .. _`the readme`: backend/README.rst
 .. _`endpoint documentation`: backend/README.rst
 
 .. Footer:
 .. |beacon| image:: https://ga-beacon.appspot.com/UA-148899399-1/github.com/equipindustry/challenge/frontend/readme
-   :target: https://github.com/equipindustry/challenge
+   :target: https://github.com/makrozai/netzun-challenge

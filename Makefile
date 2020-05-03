@@ -17,7 +17,7 @@ else
 	PIPENV_INSTALL:=
 endif
 
-TEAM:=equipindustry
+TEAM:=netzun
 PROJECT := challenge
 PROJECT_PORT := 8000
 

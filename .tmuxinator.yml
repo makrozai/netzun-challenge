@@ -1,5 +1,5 @@
-# ~/.tmuxinator/equipindustry-challenge.yml
-name: equipindustry-challenge
+# ~/.tmuxinator/netzun-challenge.yml
+name: netzun-challenge
 root: ./
 # Optional tmux socket
 # socket_name: foo
